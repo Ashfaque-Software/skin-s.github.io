@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//ashfaque-software/skin-s.github.io/static/css/main.c03ec6dc.css",
+    "main.js": "/https//ashfaque-software/skin-s.github.io/static/js/main.2163bd6e.js",
+    "static/media/Singles-Day.jpeg": "/https//ashfaque-software/skin-s.github.io/static/media/Singles-Day.dbba1d10cce90b398467.jpeg",
+    "static/media/Holiday-Shop.jpeg": "/https//ashfaque-software/skin-s.github.io/static/media/Holiday-Shop.17afd49e9d997a91fb29.jpeg",
+    "static/media/Holiday-Edit.jpeg": "/https//ashfaque-software/skin-s.github.io/static/media/Holiday-Edit.4af998d0c1bd17e68006.jpeg",
+    "static/media/Black-Friday.jpeg": "/https//ashfaque-software/skin-s.github.io/static/media/Black-Friday.4f26b86dccfce9326180.jpeg",
+    "static/media/Review-medium.jpg": "/https//ashfaque-software/skin-s.github.io/static/media/Review-medium.c2987519c048ef569fcf.jpg",
+    "static/media/Google__G__Logo.svg.png": "/https//ashfaque-software/skin-s.github.io/static/media/Google__G__Logo.svg.c6f1e28cf2b1860295b9.png",
+    "static/media/Reviews-image.jpeg": "/https//ashfaque-software/skin-s.github.io/static/media/Reviews-image.5c6b075022d01a6c68c0.jpeg",
+    "static/media/Review-small.jpg": "/https//ashfaque-software/skin-s.github.io/static/media/Review-small.c2b1e6d56e187083c173.jpg",
+    "static/media/Facebook_F_icon.svg.png": "/https//ashfaque-software/skin-s.github.io/static/media/Facebook_F_icon.svg.a4199a2e75298373ab0b.png",
+    "static/media/Blossom.png": "/https//ashfaque-software/skin-s.github.io/static/media/Blossom.7cb4bc35a01042e0f660.png",
+    "index.html": "/https//ashfaque-software/skin-s.github.io/index.html",
+    "main.c03ec6dc.css.map": "/https//ashfaque-software/skin-s.github.io/static/css/main.c03ec6dc.css.map",
+    "main.2163bd6e.js.map": "/https//ashfaque-software/skin-s.github.io/static/js/main.2163bd6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c03ec6dc.css",
+    "static/js/main.2163bd6e.js"
+  ]
+}
